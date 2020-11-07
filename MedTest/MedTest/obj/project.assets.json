@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj",
+      "projectUniqueName": "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj",
       "projectName": "MedTest",
-      "projectPath": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj",
+      "projectPath": "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj",
       "packagesPath": "C:\\Users\\Sirichai Phonsuwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\obj\\",
+      "outputPath": "D:\\Medcury-Testing\\MedTest\\MedTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,21 +48,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015151\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
