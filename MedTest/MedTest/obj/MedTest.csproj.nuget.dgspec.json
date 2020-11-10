@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj": {}
+    "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj": {
+    "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj",
+        "projectUniqueName": "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj",
         "projectName": "MedTest",
-        "projectPath": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\MedTest.csproj",
+        "projectPath": "D:\\Medcury-Testing\\MedTest\\MedTest\\MedTest.csproj",
         "packagesPath": "C:\\Users\\Sirichai Phonsuwan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sirichai Phonsuwan\\Desktop\\MedTest\\MedTest\\MedTest\\obj\\",
+        "outputPath": "D:\\Medcury-Testing\\MedTest\\MedTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

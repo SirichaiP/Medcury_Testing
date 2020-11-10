@@ -11,3 +11,16 @@ C:\Users\Sirichai Phonsuwan\Desktop\MedTest\MedTest\MedTest\bin\Debug\netcoreapp
 C:\Users\Sirichai Phonsuwan\Desktop\MedTest\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.dll
 C:\Users\Sirichai Phonsuwan\Desktop\MedTest\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.pdb
 C:\Users\Sirichai Phonsuwan\Desktop\MedTest\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.genruntimeconfig.cache
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.exe
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.deps.json
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.runtimeconfig.json
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.runtimeconfig.dev.json
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.dll
+D:\Medcury-Testing\MedTest\MedTest\bin\Debug\netcoreapp3.1\MedTest.pdb
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.csprojAssemblyReference.cache
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.AssemblyInfoInputs.cache
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.AssemblyInfo.cs
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.csproj.CoreCompileInputs.cache
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.dll
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.pdb
+D:\Medcury-Testing\MedTest\MedTest\obj\Debug\netcoreapp3.1\MedTest.genruntimeconfig.cache
